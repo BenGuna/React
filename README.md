@@ -1,2 +1,2 @@
 # React
-This is a repository for all my React projects and learnings
+This is a repository for my first project
